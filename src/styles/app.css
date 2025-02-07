@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+.dark-mode {
+  background-color: #333;
+  color: white;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+}
